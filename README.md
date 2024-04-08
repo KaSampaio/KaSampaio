@@ -1,4 +1,4 @@
-## Olá! Eu sou Kaio mas pode me chamar de Kah👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Kaio+Sampaio;I'm+31+years+old;I´m+from+Brasil,+RJ;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 💼 Trabalho atualmente como Suporte ao Cliente, mas estou determinado a migrar para a área de Desenvolvimento FrontEnd em breve.
 - 🚀 Estudando HTML, CSS e JavaScript
