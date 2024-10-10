@@ -2,7 +2,7 @@
 
 - 💼 Trabalho atualmente como Suporte ao Cliente, mas estou determinado a migrar para a área de Desenvolvimento FrontEnd em breve.
 - 🚀 Estudando HTML, CSS e JavaScript
-- 🐱 Sou o orgulhoso pai de três gatos adoráveis: o Paçoca, a Pandora e o Theo. Eles são minha alegria!
+- 🐱 Sou o orgulhoso pai de quatro gatos adoráveis: o Paçoca, a Pandora, o Theo e o Blue. Eles são minha alegria!
 - 🎸 Além de ser um entusiasta da tecnologia, também sou um músico apaixonado. Toco uma variedade de instrumentos, incluindo violão, guitarra, baixo, bateria e teclado.
 
   ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
